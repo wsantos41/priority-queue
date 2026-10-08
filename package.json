@@ -1,6 +1,6 @@
 {
   "name": "priority-queue",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "binary heap with direct decrease-key, no full rebuild",
   "type": "module",
   "main": "src/index.js",
